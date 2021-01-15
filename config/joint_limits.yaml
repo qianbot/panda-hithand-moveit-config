@@ -2,6 +2,11 @@
 # Specific joint properties can be changed with the keys [max_position, min_position, max_velocity, max_acceleration]
 # Joint limits can be turned off with [has_velocity_limits, has_acceleration_limits]
 joint_limits:
+  Right_Index_0:
+    has_velocity_limits: true
+    max_velocity: 3.14
+    has_acceleration_limits: false
+    max_acceleration: 0
   Right_Index_1:
     has_velocity_limits: true
     max_velocity: 3.14
@@ -17,7 +22,7 @@ joint_limits:
     max_velocity: 3.14
     has_acceleration_limits: false
     max_acceleration: 0
-  Right_Index_4:
+  Right_Little_0:
     has_velocity_limits: true
     max_velocity: 3.14
     has_acceleration_limits: false
@@ -37,7 +42,7 @@ joint_limits:
     max_velocity: 3.14
     has_acceleration_limits: false
     max_acceleration: 0
-  Right_Little_4:
+  Right_Middle_0:
     has_velocity_limits: true
     max_velocity: 3.14
     has_acceleration_limits: false
@@ -57,7 +62,7 @@ joint_limits:
     max_velocity: 3.14
     has_acceleration_limits: false
     max_acceleration: 0
-  Right_Middle_4:
+  Right_Ring_0:
     has_velocity_limits: true
     max_velocity: 3.14
     has_acceleration_limits: false
@@ -77,7 +82,7 @@ joint_limits:
     max_velocity: 3.14
     has_acceleration_limits: false
     max_acceleration: 0
-  Right_Ring_4:
+  Right_Thumb_0:
     has_velocity_limits: true
     max_velocity: 3.14
     has_acceleration_limits: false
@@ -93,11 +98,6 @@ joint_limits:
     has_acceleration_limits: false
     max_acceleration: 0
   Right_Thumb_3:
-    has_velocity_limits: true
-    max_velocity: 3.14
-    has_acceleration_limits: false
-    max_acceleration: 0
-  Right_Thumb_4:
     has_velocity_limits: true
     max_velocity: 3.14
     has_acceleration_limits: false
