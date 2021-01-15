@@ -104,7 +104,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Index_Phoaprox:
+          Right_Index_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -124,7 +124,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Little_Phoaprox:
+          Right_Little_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -144,7 +144,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Middle_Phoaprox:
+          Right_Middle_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -164,7 +164,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Ring_Phoaprox:
+          Right_Ring_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -184,7 +184,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Thumb_Phoaprox:
+          Right_Thumb_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -343,7 +343,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Index_Phoaprox:
+          Right_Index_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -363,7 +363,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Little_Phoaprox:
+          Right_Little_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -383,7 +383,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Middle_Phoaprox:
+          Right_Middle_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -403,7 +403,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Ring_Phoaprox:
+          Right_Ring_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -423,7 +423,7 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          Right_Thumb_Phoaprox:
+          Right_Thumb_Phaprox:
             Alpha: 1
             Show Axes: false
             Show Trail: false
